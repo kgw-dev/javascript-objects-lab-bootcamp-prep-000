@@ -1,5 +1,5 @@
 var receipes = {
-  eggs: 3,
+  eggs: '3',
   flour: '3 cups'
   };
 function updateObjectWithKeyAndValue (object, key, value) {
